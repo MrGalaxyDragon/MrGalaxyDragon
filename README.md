@@ -14,7 +14,7 @@
     </picture>
 </h2>
 
-Hi, I am Tom and I enjoy programming and learning new skills. :D
+Hi, I am Tom and I enjoy programming and learning new skills. :smiley:
 
 I have been enrolled in a **dual study program in business informatics** since August 2022. 🎓🏢
 
@@ -27,6 +27,7 @@ I have been enrolled in a **dual study program in business informatics** since A
 </h3>
 
 I am currently working on programming the board game <a href="https://en.wikipedia.org/wiki/Pandemic_(board_game)" target="_blank" rel="noreferrer nofollow">Pandemic</a> as a web application. :mask:
+<br>
 Repos:
 - <a href="https://github.com/MrGalaxyDragon/pandemic-game-backend-java" target="_blank" rel="noreferrer nofollow">Backend</a>
 - <a href="https://github.com/MrGalaxyDragon/pandemic-game-frontend-svelte" target="_blank" rel="noreferrer nofollow">Frontend</a>
